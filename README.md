@@ -7,7 +7,7 @@ Built with PyInstaller. Uses only Python standard library (no external packages 
 
 Upon launch, the program will either find your osu! songs folder automatically (if it is located in the default Windows install path), or you will be prompted to specify it yourself.
 If anything goes wrong, you can manually edit `config.txt` and change the songs_dir value, for example:
-```toml
+```yaml
 [General]
 songs_dir = C:/Users/Username/AppData/Local/osu!/Songs
 ```
