@@ -1,6 +1,8 @@
 # Taiko Gimmick Wizard
 
 Built with PyInstaller. Uses only Python standard library (no external packages required).
+I aim to have as few dependencies as possible.
+While a GUI is available for Windows, I will consider a TUI release for Linux and Mac systems.
 
 
 ## How to use
